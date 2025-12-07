@@ -4,7 +4,7 @@ import ProjectCard from "@/components/ProjectCard";
 const Page = () => {
   return (
     <div
-      style={{ backgroundImage: `url(/mountains.jpg)` }}
+      style={{ backgroundImage: `url(/Mountains.jpg)` }}
       className="h-screen w-screen flex justify-center items-center bg-cover bg-center"
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 max-w-[90%] max-h-[80%] overflow-auto no-scrollbar">
